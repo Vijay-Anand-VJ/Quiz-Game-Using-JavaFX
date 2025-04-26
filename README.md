@@ -11,6 +11,14 @@ This is an interactive quiz game developed using JavaFX. Players must answer que
 - Customizable difficulty and category selection
 - User score tracking and performance summary
 
+## Project Structure
+
+├── Main.java              
+├── QuizController.java   
+├── Question.java          
+├── QuestionData.java      
+
+
 
 
 ## How to Play
